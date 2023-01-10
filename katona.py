@@ -19,3 +19,4 @@ for _ in range(2):
 
 for híres_katona in híres_katonak:
     print(f'{híres_katona.elotag()} {híres_katona.név} egy híres {híres_katona.foglalkozás}')
+    
