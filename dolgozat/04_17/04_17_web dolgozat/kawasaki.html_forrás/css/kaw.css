@@ -1,0 +1,86 @@
+﻿body{
+    background-color:blue;
+}
+header{
+    background-position: center center;
+}
+h1{
+
+    background-color: rgb(248, 248, 248);
+    font-family: Verdana;   
+    color: #416618;
+    font-weight: bold;
+
+}
+
+p{
+    
+}
+
+#shozo{
+    height: 250px;
+    float: right;
+    margin-left: 25px;
+}
+
+.kiemelt{
+    color: red;
+}
+.forras{
+    text-align: right;
+}
+.btn-group{
+    background-color:blue;
+    padding: 10px;
+    margin-left: 8px;
+    margin-right: 200px;
+  
+
+}
+.btn-group li{
+    display:inline-block; 
+     width: 100px;
+     
+}
+.btn-group a {
+    color:white;
+   
+}
+.btn-primary{
+    color: white;
+    
+}
+
+.container{
+    margin:auto;
+    background-color:lightblue;
+    border: solid gray 2px;
+    
+}
+
+
+.d-block{
+    text-align: center;
+}
+table{
+    text-align: center;
+    border: 2px;
+    margin:0 auto;
+    caption-side: top;
+}
+caption{
+	text-align:	center;
+	font-weight: bold;
+}
+
+h1{
+    text-align: center;
+    text-decoration: none;
+    size: 30pt;
+    margin-bottom: 20px;
+}
+
+p{
+    text-align: justify;
+    text-indent: 20px;
+}
